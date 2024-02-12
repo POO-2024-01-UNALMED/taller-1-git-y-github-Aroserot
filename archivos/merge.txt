@@ -1,3 +1,6 @@
 Andrés Alejandro Rosero Toledo
 20
 Espero poder absorber lo que más pueda de la logica que maneja POO y saberla aplicar.
+Al parecer no me dejaba hacer el commit ya que agregar una carpeta vacia no se considera un cambio en github
+
+Porque se genera un conflicto
